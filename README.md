@@ -1,1 +1,1 @@
-### webmachine template (openai)
+### webmachine template (openaic)
